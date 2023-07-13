@@ -10,4 +10,4 @@
 - keyframes анимация.
 
 ## Демо
-https://alinashatalova.github.io/calendar-of-events/
+https://olagolanova.github.io/SuperHeroes/
